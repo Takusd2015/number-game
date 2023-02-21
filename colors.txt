@@ -2,3 +2,5 @@ red
 orrange
 yello
 green
+blue
+purple
