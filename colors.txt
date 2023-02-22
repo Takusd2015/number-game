@@ -3,4 +3,6 @@ orrange
 yello
 green
 blue
-purple
+indigo
+pink
+violet
