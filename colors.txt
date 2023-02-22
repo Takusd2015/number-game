@@ -1,7 +1,5 @@
 red
-orrange
-yello
-green
+yellow
 blue
 indigo
 pink
