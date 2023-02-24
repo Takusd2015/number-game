@@ -4,3 +4,5 @@ blue
 indigo
 pink
 violet
+247e203
+f31a79f
